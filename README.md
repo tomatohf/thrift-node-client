@@ -16,5 +16,5 @@ var servers = [
 ];
 
 var getClient = require('thrift-node-client').pool(service, servers);
-getClient().callThriftMethod()
+getClient().callThriftMethod();
 ```
