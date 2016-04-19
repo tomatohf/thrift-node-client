@@ -5,6 +5,9 @@
   "main": "index.js",
   "scripts": {
   },
+  "dependencies": {
+    "thrift": "~0.9.3"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tomatohf/thrift-node-client.git"
